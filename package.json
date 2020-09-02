@@ -1,0 +1,11 @@
+{
+    "description": "XRChannel and our deps.",
+    "license": "MIT",
+    "name": "xr-rtc-channel",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:webaverse/xr-rtc-channel.git"
+    },
+    "version": "0.0.1"
+  }
+  
